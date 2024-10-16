@@ -1,17 +1,14 @@
-# Welcome to MkDocs
+# Infrastructure-as-Code (IaC)
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+IaC takes in code and deploys infrastructure.
 
-## Commands
+## Links
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* [GitLab]
 
-## Project layout
+## Training
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* [LinkedIn Learning]
+
+[GitLab]: https://gitlab.com
+[LinkedIn Learning]: https://linkedin.com
