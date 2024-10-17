@@ -1,0 +1,4 @@
+# Ignore TARs and GZIPs, yo
+*.tar
+*.tar.gz
+*.tgz
